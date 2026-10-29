@@ -1,0 +1,6 @@
+{
+  "name": "SpecForge",
+  "description": "Academic engineering curriculum accreditation and cybernetic protocol verification suite with high-density audit matrices and telemetry inspector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
